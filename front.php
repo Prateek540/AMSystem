@@ -1,7 +1,7 @@
 <?php
 include 'db.php';
 include 'header.php';
-$flag=00;
+$flag=0;
 $update=0;
 if(isset($_POST['submit']))
 {
